@@ -13,12 +13,18 @@
 If the dataset or code contributes to your project, please cite:
 
 ```plaintext
-@article{WANG2025,
-title = {Robust Multimodal Road Extraction via Dual-Layer Evidential Fusion Networks for Remote Sensing},
-journal = {IEEE Transactions on Geoscience and Remote Sensing},
-
-author = {Hui Wang and Youxiang Huang and Yu Wang and Donglai Jiao and Hao Huang and Yun Lin and Guan Gui},
-keywords = {Remote Sensing Images, Multimodal Road Extraction, Cross-Attention Feature Interaction, Dual-Layer Evidential Fusion, Uncertainty Estimation}}
+@ARTICLE{wang2025robust,
+  author={Wang, Hui and Huang, Youxiang and Wang, Yu and Jiao, Donglai and Huang, Hao and Lin, Yun and Gui, Guan},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Robust Multimodal Road Extraction via Dual-Layer Evidential Fusion Networks for Remote Sensing}, 
+  year={2025},
+  volume={63},
+  number={},
+  pages={1--11},
+  doi={10.1109/TGRS.2025.3587876},
+  note={Early Access},
+  publisher={IEEE}
+}
 ```
 
 ## License / 许可证
